@@ -1,2 +1,1 @@
-#Day 1- Git Hub
- by lavanya lahari
+# Day 1- Git Hub
